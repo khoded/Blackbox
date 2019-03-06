@@ -1,8 +1,8 @@
 {
-  "name": "SOSC",
-  "description": "The official sosc website",
+  "name": "BlackBox Testing Community",
+  "description": "The official Blackbox Testing Community website",
   "version": "1.0.0",
-  "author": "Musthaq Ahamad <musthu.gm@gmail.com>",
+  "author": "DevKhoded<adewaleonamade@gmail.com>",
   "dependencies": {
     "@babel/core": "^7.1.6",
     "babel-loader": "^8.0.4",
