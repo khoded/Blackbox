@@ -36,6 +36,7 @@
   "license": "MIT",
   "scripts": {
     "heroku-postbuild": "gatsby build",
+    "build": "gatsby build",
     "develop": "gatsby develop",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "format": "prettier --write 'src/**/*.js'",
