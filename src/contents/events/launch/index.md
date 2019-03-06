@@ -5,4 +5,5 @@ date: 2019-02-06
 location: Samuel Akande Activity Hall
 cover: './cover.png'
 link: ''
+feedback_link: ''
 ---

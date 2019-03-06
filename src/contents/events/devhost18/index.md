@@ -5,6 +5,7 @@ date: 2018-05-04
 location: Seminar Hall
 cover: './cover.jpg'
 link: ''
+feedback_link: ''
 ---
 
 ## devhost:18
