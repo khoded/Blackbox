@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'BlackBox Testing Community',
+    title: 'BlackBoxTestingCommunity',
     siteUrl: 'https://blackbox.com',
     events: {
       title: 'BlackBox - Events',

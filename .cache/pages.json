@@ -1,0 +1,47 @@
+[
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-22d",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---src-pages-blog-js",
+        "jsonName": "blog-f7a",
+        "path": "/blog/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-js",
+        "jsonName": "blog-fostering-developer-communities-through-devrel-confs-f24",
+        "path": "/blog/fostering-developer-communities-through-devrel-confs"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-pages-events-js",
+        "jsonName": "events-0dc",
+        "path": "/events/"
+    },
+    {
+        "componentChunkName": "component---src-templates-event-js",
+        "jsonName": "events-devhost-18-dd0",
+        "path": "/events/devhost18"
+    },
+    {
+        "componentChunkName": "component---src-templates-event-js",
+        "jsonName": "events-forloop-bu-91d",
+        "path": "/events/forloopBU"
+    },
+    {
+        "componentChunkName": "component---src-pages-team-js",
+        "jsonName": "team-a07",
+        "path": "/team/"
+    }
+]
