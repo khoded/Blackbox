@@ -84,7 +84,7 @@ export const teamQuery = graphql`
         }
       }
     }
-    imageCoord1: file(relativePath: { eq: "images/prakhyath_rai.jpg" }) {
+    imageCoord1: file(relativePath: { eq: "images/akin.jpeg" }) {
       childImageSharp {
         fluid(maxWidth: 200) {
           ...GatsbyImageSharpFluid_tracedSVG

@@ -1,9 +1,9 @@
 ---
-slug: /blog/BlackBox Testing Community is Live
+slug: /blog/BlackBoxTestingCommunityisLive
 date: 2019-03-06
-author: haxzie
-name: Musthaq Ahamad
-title: Hackference India - Fostering Developer Communities through DevRel Confs
+author: devKhoded
+name: Onamade Korede
+title: BlackBox Testing - Fostering Software Testing as a Community.
 tags: Conference Experience
 cover: './cover.png'
 description: Software Testing Community are events aimed at assimilation of testing advocates and Evangelists of multiple organizations, sharing their knowledge and experiences.
