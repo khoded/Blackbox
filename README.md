@@ -1,6 +1,5 @@
-![sosc logo](https://raw.githubusercontent.com/haxzie/sosc-website/master/src/images/logo_main.png)
-# Sahyadri OpenSource Community
-Official website for Sahyadri OpenSource Community.  
+# Blackbox Software testing community
+Official website for Software testing community  
 All contribution to this website including contents are made through Pull Requests.  
 If you are new to Git and GitHub and don't know how to submit a Pull Request(PR), please refer our friendly guide
 on submitting your first pull request at [gitme.js.org](https://gitme.js.org).  
@@ -53,7 +52,7 @@ PS:
 slug: /blog/YOUR-BLOG-POST-URL (add your post title with hyphens instead of spaces, in Lowercase only)
 date: 2018-08-02
 author: haxzie
-name: Musthaq Ahamad
+name: Kola Ahmed
 title: Second blog post
 tags: blog post
 cover: './cover.jpg'
@@ -102,13 +101,3 @@ A few of the prefixes are listed below.
 - INIT: Initialized files to start working on. 
 
 PS: Only use the prefix before your commit followed by an understandable commit message.
-
-# Meet our Contributors :tada:
-- [haxzie](https://github.com/haxzie)
-- [rumaan](https://github.com/rumaan)
-- [Chaman](https://github.com/chaman-k)
-- [Shravan](https://github.com/shravan1998)
-- [Afroz Hussain](https://github.com/coderhawk999)
-- [DominikTrojcak](https://github.com/DominikTrojcak)
-- [David Brunnthaler](https://github.com/davidbru)
-- [Davidgorel](https://github.com/davidgorel)
